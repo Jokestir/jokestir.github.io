@@ -1,3 +1,1 @@
-# Notes
-
 * [python](../python.txt)
