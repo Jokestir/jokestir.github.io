@@ -1,1 +1,1 @@
-notes
+- [python](../python.txt)
