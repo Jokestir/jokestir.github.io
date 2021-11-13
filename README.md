@@ -1,2 +1,1 @@
-# jokestir.github.io
 notes
