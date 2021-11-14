@@ -27,4 +27,4 @@
 * desktop: pysimplegui, tkinter
 
 * textblob, fastext, keras for ml
-* for dist. use shiv/zip files. pyinstaller/docker as backup
+* for dist. use shiv/zip files. pyinstaller/py2exe/docker as backup
