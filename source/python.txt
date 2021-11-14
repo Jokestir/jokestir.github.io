@@ -25,4 +25,6 @@
 * web: bottle.py, brython
 * mobile: kivy
 * desktop: pysimplegui, tkinter
+
 * textblob, fastext, keras for ml
+* for dist. use shiv/zip files. pyinstaller/docker as backup
