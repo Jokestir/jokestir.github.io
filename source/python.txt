@@ -19,6 +19,7 @@
 * assets	// css, jquery, html, includes
 * data		// data in the form of json, xml, sqlite
 * logging	// logs go here. loguru
+* workers //python background services for scraping, training etc.
 
 ## frameworks
 
