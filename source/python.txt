@@ -2,3 +2,27 @@
 
 - automate the boring stuff [notes](https://jokestir.github.io/assets/python/automatetutorials.txt)
 - python 101, python 201 by driscoll
+
+## minimalism
+
+  > simplicity is the ultimate sophistication
+- classes are evil. use functions. think in terms of functions and datastructures.
+            - think in terms of map, filter, reduce.
+- threads are evil. ()
+            - dont use threads. use process.
+- favorite datastructures: sets, dicts, structs, namedtuples and tuples, txt, config, shelve, json, sqlite, trees
+
+## structure
+
+* code.py       // single file for everything. just like levelsio. bottle.py or django
+* settings.conf // store configs
+* assets	// css, jquery, html, includes
+* data		// data in the form of json, xml, sqlite
+* logging	// logs go here. loguru
+
+## frameworks
+
+* web: bottle.py, brython
+* mobile: kivy
+* desktop: pysimplegui, tkinter
+* textblob, fastext, keras for ml
