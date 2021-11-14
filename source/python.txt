@@ -1,0 +1,4 @@
+## books
+
+- automate the boring stuff [notes](https://jokestir.github.io/assets/python/automatetutorials.txt)
+- python 101, python 201 by driscoll
