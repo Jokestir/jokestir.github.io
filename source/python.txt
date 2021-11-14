@@ -23,7 +23,7 @@
 
 ## frameworks
 
-* web: bottle.py, brython
+* web: cherry.py, brython
 * mobile: kivy
 * desktop: pysimplegui, tkinter
 
