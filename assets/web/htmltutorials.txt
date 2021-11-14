@@ -1,0 +1,139 @@
+source : http://htmldog.com/guides/html/
+
+* <!DOCTYPE html> :  document type declaration and it lets the browser know which flavor of HTML you’re using (HTML5, in this case)
+
+* <html> : opening tag that kicks things off and tells the browser that everything between that and the </html> closing tag is an HTML document.
+
+* <body> and </body> : is the main content of the document that will appear in the browser window. (this is what you should show!)
+
+
+----------------------------------------------------------------
+NOTE:
+
+Not all tags have closing tags like this (<html></html>) some tags, which do not wrap around content will close themselves. 
+
+The line-break tag for example, looks like this : <br> - a line break doesn’t hold any content so the tag merrily sits by its lonely self
+
+self-closing” tags, whereby a br tag, for example, will look like “<br />” instead of simply “<br>”.
+---------------------------------------------------------------------
+
+* Tags: basic structure of an HTML document includes tags, which surround content and apply meaning to it.
+
+				Example : <html></html>
+
+* Attributes: tags have attributes which have extra information. Attributes appear inside the opening tag and their values sit inside quotation marks. 
+			
+				Example : <tag attribute="value">Margarine</tag>
+
+			
+----------------
+NOTE:
+Once again, quotation marks aren’t always essential but it is a good-practice convention HTML Dog uses for consistency and clarity. We suggest you do the same.
+----------------
+
+*  elements : tags mark the end and beginning of an element
+
+		“<title>Rumple Stiltskin</title>” is a title element.
+
+
+Some element
+----------
+
+
+*  title elemnt: All html pages should have a page title.
+
+
+*  head element : info about the page. is not printed. comes before body
+
+* body element : stuff that is printed
+
+
+
+			<html>
+				<head>
+    					<title>My first web page</title>
+				</head>
+				<body>
+    					This is my first web page
+				</body>
+			</html>
+
+* paragraph tag: for text to go on next line. <p></p>
+
+* <em></em>, <strong></strong> (emphasis)
+
+* <br> (line break) no closing tag
+
+* heading elements : h1,h2,h3,h4,h5,h6 
+
+* list : <ul>, <ol> (unordered list and ordered list)
+
+* link : anchor tag.href attribute has the destination link eg: <a href="flyingmoss.html">The miracle of moss inflight</a>  (relative link if in same directory)
+
+* img  : src, width, height and alt attributes. e.g: <img src="http://www.htmldog.com/badge1.gif" width="120" height="90" alt="HTML Dog"> (noclosing tag)
+
+* table: table tag, tr is row tag and td is data tag.
+
+			
+			<table>
+    				<tr>
+        				<td>Row 1, cell 1</td>
+        				<td>Row 1, cell 2</td>
+        				<td>Row 1, cell 3</td>
+    				</tr>
+    				<tr>
+        				<td>Row 2, cell 1</td>
+        				<td>Row 2, cell 2</td>
+        				<td>Row 2, cell 3</td>
+    				</tr>
+    
+				</table>
+ 
+
+
+* 
+
+FORM
+--------
+
+* forms are used to take input from user.
+
+* method attribute tells how data can be sent. get and put are most popular options.
+
+-------------------------------------------------
+NOTE
+
+get is used for shorter chunks of non-sensitive information - you might see the information you have submitted in a web site’s search to appear in the web address of its search results page, for example. post is used for lengthier, more secure submissions, such as in contact forms.
+
+---------------------------------------------------
+
+* input tag : input area for data
+
+				- <input type="text"> : standard text box. can also have a value attribute, which sets the initial text in the textbox
+				- <input type="password"> is similar to the textbox, but the characters typed in by the user will be hidden.
+				- <input type="checkbox"> : checkbox, which can be toggled on and off by the user. can have a checked attribute (<input type="checkbox" 				   	   checked> - the attribute doesn’t require a value) 
+
+				- <input type="radio"> :the user can only select one radio button in a group. This can also have a checked attribute.
+				- <input type="submit"> is a button that when selected will submit the form. You can control the text that appears on the submit button 				   	   with the value attribute, for example <input type="submit" value="Ooo. Look. Text on a button. Wow">.
+				
+
+
+* textarea tag :  a large, multi-line textbox. The anticipated number of rows and columns can be defined with rows and cols attributes
+
+				<textarea rows="5" cols="20">A big load of text</textarea> (initial value)
+
+
+* select tag :  works with the option tag to make drop-down select boxes.
+
+
+			<select>
+    				<option>Option 1</option>
+    				<option>Option 2</option>
+    				<option value="third option">Option 3</option>
+			</select
+
+			<option selected>Rodent</option> (rodent is default selected)
+
+* to all the fields, the attribute name needs to be added, for example <input type="text" name="talkingsponge">.The name attribute is used to reference elements in a   JavaScript, or to reference form data after a form is submitted.
+
+
