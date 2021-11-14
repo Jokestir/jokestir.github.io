@@ -1,5 +1,5 @@
 ## books
 
-- automate the boring stuff [notes](../assets/automatetutorials.txt)
+- automate the boring stuff [notes](../assets/python/automatetutorials.txt)
 - python 101, python 201 by driscoll
 
