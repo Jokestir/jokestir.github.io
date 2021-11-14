@@ -4,7 +4,7 @@
       * css
       * js
 3. misc.
-      * make
+      * [make](./source/make.txt)
       * learn
       * problemsolve
       * git
