@@ -1,5 +1,5 @@
-* [python](../python.txt)
-* web
+1. [python](../python.txt)
+2. web
       * html
       * css
       * js
