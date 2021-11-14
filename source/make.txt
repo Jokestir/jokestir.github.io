@@ -1,0 +1,7 @@
+
+
+## ux
+
+- playful ui
+- least number of click
+- blazing fast results bc static website
