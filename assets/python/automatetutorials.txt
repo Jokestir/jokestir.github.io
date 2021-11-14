@@ -1,0 +1,72 @@
+* use requests module to download the html file
+													 - requests.get() to download file in memory
+                                                     - always call raise_for_status() after calling requests.get(). 
+                                                     - save data to file using open() and write() function (use wb)
+                                                     - loop over res objects iter_content() method. call write method. call close()
+                                                     - close() and write()
+
+* use beautifulsoup module to parse the html
+
+													- use bs4.BeautifulSoup(html,'html.parser') to get a beautiful object
+                                                    - use select() method to find the element by passing css selector as a string
+
+
+soup module
+===========
+
+* Some elements have an id attribute that is used to uniquely identify the element in the page. You will often instruct your programs to seek out an element by its id attribute, so figuring out an element’s id attribute using the browser’s developer tools is a common task in writing web scraping programs.
+
+* select : soup.select()
+                                      
+
+       - select by tag 						: p 			:  all elements with tag <p>
+       - select by tag inside a tag 				: div span 		:  All elements named <span> that are within an element named <div>
+       - select by tag directly inside another tag 		: div > span		:  All elements named <span> that are directly within an element named <div>, with no other element in between
+       - select by  attribute id				: #author 		:  The element with an id attribute of author
+       - select by attribute class				: .notice		:  All elements with an CSS class attribute of notice
+       - select by attribute inside a tag 			: input[name]		:  All elements named <input> that have a name attribute with any value
+       - select by attribute inside a tag			: input[type="button"] 	:  All elements named <input> that have an attribute named type with value button
+
+
+* soup tag objects : 
+
+		 - getText()
+		 - attrs
+		 - get('attribute')  : get value of the attribute. returns None if it does not exist 
+
+* Use selenium for advanced features like login, clicking, filing out forms etc.
+
+code 
+=====
+
+import requests, bs4
+res = requests.get('http://nostarch.com')
+res.raise_for_status()
+noStarchSoup = bs4.BeautifulSoup(res.text)
+type(noStarchSoup)
+
+exampleFile = open('example.html')
+exampleSoup = bs4.BeautifulSoup(exampleFile.read())
+elems = exampleSoup.select('#author')
+
+len(elems)
+elems[0].getText() 	#'Al Sweigart'
+str(elems[0])		#'<span id="author">Al Sweigart</span>'
+elems[0].attrs          #{'id': 'author'}
+elems[0].get('id')	# author
+
+
+
+webbrowser.open(url) : webbrowser.open('http://inventwithpython.com/')
+res = requests.get(url) : res = requests.get('https://automatetheboringstuff.com/files/rj.txt') 
+                       
+res.raise_for_status() 
+playFile = open('RomeoAndJuliet.txt', 'wb')
+for chunk in res.iter_content(100000):
+        playFile.write(chunk)
+playFile.close()
+
+The for loop and iter_content() stuff may seem complicated but it’s to ensure that the requests module doesn’t eat
+up too much memory even if you download massive files
+
+
