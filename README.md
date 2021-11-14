@@ -1,6 +1,6 @@
 1. [python](./source/python.txt)
 2. web
-      * html
+      * [html](./source/html.txt)
       * css
       * js
 3. misc.
