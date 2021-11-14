@@ -3,3 +3,7 @@
       * html
       * css
       * js
+3. misc.
+      * git
+      * db
+      * linuxy
