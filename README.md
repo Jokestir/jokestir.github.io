@@ -1,5 +1,5 @@
 * [python](../python.txt)
 * web
-      - html
-      - css
-      - js
+      * html
+      * css
+      * js
