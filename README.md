@@ -4,6 +4,9 @@
       * css
       * js
 3. misc.
+      * make
+      * learn
+      * problemsolve
       * git
       * db
       * linuxy
