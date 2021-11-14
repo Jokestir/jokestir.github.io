@@ -1,4 +1,4 @@
-1. [python](../source/python.txt)
+1. [python](./source/python.txt)
 2. web
       * html
       * css
