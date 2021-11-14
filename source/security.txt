@@ -1,0 +1,11 @@
+Security
+-------------------
+- Integer, float or boolean, string parameters can be checked for pattern and types
+- escape from contexts (json, html and other. bleach for html, json.dumps for json etc.)
+- parametrized/prepared sql statements
+- authentication
+	- whitelist ip address
+	- private certificates
+	- handshake puzzles
+	- api gateways
+	- sha512(projectname+coname+secret)
