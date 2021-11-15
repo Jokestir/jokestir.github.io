@@ -9,7 +9,7 @@
 
 ## ux
 
-- playful ui
+- playful ui. see https://thesephist.com/projects/
 - least number of click
 - blazing fast results bc static website
 
@@ -19,5 +19,7 @@
 
 - there is no tracking, there is no Javascript, and there are no cookies. 
   Ideally, you receive results in a fraction of a second and can just spend time looking into results
+  
+ 
  
    
