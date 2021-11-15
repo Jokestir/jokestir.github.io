@@ -2,6 +2,11 @@
 ## stack
 -  html, css, jquery, bottle.py (tableau), brython
 
+## ideas
+
+- orn and uck
+- http://nicole.pizza/, https://experiments.withgoogle.com/
+
 ## ux
 
 - playful ui
