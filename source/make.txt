@@ -1,6 +1,6 @@
 
 ## stack
--  html, css, jquery, bottle.py (tableau), brython
+-  html, css, jquery, bottle/cherry.py (tableau), brython
 
 ## ideas
 
