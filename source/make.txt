@@ -8,6 +8,10 @@
 - least number of click
 - blazing fast results bc static website
 
+* Be minimal like instagram. most used features visible. others invisble.
+* Keyboard shortcuts. command pallette like vscode/spotlight
+* UI: https://uidesigndaily.com
+
 - there is no tracking, there is no Javascript, and there are no cookies. 
   Ideally, you receive results in a fraction of a second and can just spend time looking into results
  
