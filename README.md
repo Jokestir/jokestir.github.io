@@ -5,7 +5,7 @@
       * js
 3. misc.
       * [make](./source/make.txt)
-               * [ux](./source/ux.txt)
+      * [ux](./source/ui.txt)
       * learn
       * problemsolve
       * [security](./source/security.txt) 
