@@ -3,7 +3,7 @@ how to do
 
 * 1 minute videos like swift in sixty seconds, learnxinyminutes. primarily youtube videos/udemy. not academics.
 * 7 gui projects. 100 projects.
-* breadth first than depth. top down apparoach. (files, networking, db, trycatch, unitstatement, functions, arrays, dictionaries,objects)
+* breadth first than depth. top down apparoach. (files, networking, db, trycatch, unitstatement, functions, loops, ifelse arrays, dictionaries,objects)
 
 not to do
 -----
