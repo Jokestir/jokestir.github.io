@@ -6,7 +6,7 @@
 3. misc.
       * [make](./source/make.txt)
       * [ux](./source/ui.txt)
-      * learn
+      * [learn](./source/learn.txt)
       * problemsolve
       * [security](./source/security.txt) 
       * git
