@@ -11,6 +11,7 @@
 - threads are evil. ()
             - dont use threads. use process.
 - favorite datastructures: sets, dicts, structs, namedtuples and tuples, txt, config, shelve, json, sqlite, trees
+- store everything on filesystem as key:value pair
 
 ## structure
 
