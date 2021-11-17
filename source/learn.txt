@@ -1,0 +1,12 @@
+how to do
+-----
+
+* 1 minute videos like swift in sixty seconds, learnxinyminutes. primarily youtube videos/udemy. not academics.
+* 7 gui projects. 100 projects.
+* breadth first than depth. top down apparoach. (files, networking, db, trycatch, unitstatement, functions, arrays, dictionaries,objects)
+
+not to do
+-----
+* read books. (kids books perhaps. short crisp precise in 100 pages)
+* do long tutorials
+* do 3 months or 100 days of nothing but that
