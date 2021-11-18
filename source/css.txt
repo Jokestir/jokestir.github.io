@@ -5,3 +5,9 @@
 ## readymade
 
 - see paper.css and blocks.css by https://thesephist.com/projects/
+
+## books
+
+- HTML tips
+- The Coding Workbook Build a Website with HTML & CSS
+- Build Your Own Website A Comic Guide to HTML, CSS, and WordPress by Nate Cooper
