@@ -7,7 +7,7 @@
       * [make](./source/make.txt)
       * [ux](./source/ui.txt)
       * [learn](./source/learn.txt)
-      * problemsolve
+      * [problemsolve](./source/problemsolve.txt)
       * [security](./source/security.txt) 
       * [git](./source/git.txt)
       * [db](./source/db.txt)
