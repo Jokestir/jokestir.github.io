@@ -9,6 +9,6 @@
       * [learn](./source/learn.txt)
       * problemsolve
       * [security](./source/security.txt) 
-      * git
-      * db
-      * linuxy
+      * [git](./source/git.txt)
+      * [db](./source/db.txt)
+      * [linuxy](./source/linuxy.txt)
