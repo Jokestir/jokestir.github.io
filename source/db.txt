@@ -25,6 +25,8 @@
 
 + https://garden.bradwoods.io/notes/sql
 
++ [comics](jokestir.github.io/assets/vines/sql.pdf)
+
 
 [0.4] Database design
 ---------------------
