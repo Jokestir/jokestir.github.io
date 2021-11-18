@@ -8,14 +8,12 @@
 + w3schools
 
 + Team Tree House : On hard drive.
+
 + http://studybyyourself.com/seminar/sql/course/?lang=en
-+ SQLite lynda.com
 
 + Practical SQL : A begineers guide
 
 + Harvard Relational Databases 
-
-+ VS videos
 
 + https://sqlpd.com
 
@@ -26,24 +24,6 @@
 + https://www.masterywithsql.com/
 
 + https://garden.bradwoods.io/notes/sql
-
-[0.3] Interview Prep
---------------------
-
-SQL puzzles and answers
-https://app.getpocket.com/read/848220256
-https://app.getpocket.com/read/2544443040
-https://www.reddit.com/r/SQL/comments/7o7h0z/sql_server_advice_prepping_for_sql_interview/
-https://www.reddit.com/r/SQL/comments/6cr08b/thought_i_thought_myself_sql_well_enough_for_an/
-https://www.reddit.com/r/SQL/comments/9bo9ov/what_are_the_questions_you_were_asked_on_your_job/
-https://www.reddit.com/r/SQL/comments/9bo9ov/what_are_the_questions_you_were_asked_on_your_job/
-http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
-https://app.getpocket.com/read/1113153214
-https://www.udemy.com/sql-tricky-interview-questions-preparation-course/
-https://www.hackerrank.com/domains/sql
-https://leetcode.com/problemset/database/
-https://mode.com/sql-tutorial/sql-operators/
-https://quip.com/2gwZArKuWk7W
 
 
 [0.4] Database design
