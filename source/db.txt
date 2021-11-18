@@ -1,3 +1,70 @@
-# books
+[0] Resources
+====================================
 
-# tutorials
+
+[0.1] Video Courses
+---------------------
+
++ w3schools
+
++ Team Tree House : On hard drive.
++ http://studybyyourself.com/seminar/sql/course/?lang=en
++ SQLite lynda.com
+
++ Practical SQL : A begineers guide
+
++ Harvard Relational Databases 
+
++ VS videos
+
++ https://sqlpd.com
+
++ https://www.masterywithsql.com
+
++ https://pgexercises.com/questions/joins/ (postgres)
+
++ https://www.masterywithsql.com/
+
++ https://garden.bradwoods.io/notes/sql
+
+[0.3] Interview Prep
+--------------------
+
+SQL puzzles and answers
+https://app.getpocket.com/read/848220256
+https://app.getpocket.com/read/2544443040
+https://www.reddit.com/r/SQL/comments/7o7h0z/sql_server_advice_prepping_for_sql_interview/
+https://www.reddit.com/r/SQL/comments/6cr08b/thought_i_thought_myself_sql_well_enough_for_an/
+https://www.reddit.com/r/SQL/comments/9bo9ov/what_are_the_questions_you_were_asked_on_your_job/
+https://www.reddit.com/r/SQL/comments/9bo9ov/what_are_the_questions_you_were_asked_on_your_job/
+http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
+https://app.getpocket.com/read/1113153214
+https://www.udemy.com/sql-tricky-interview-questions-preparation-course/
+https://www.hackerrank.com/domains/sql
+https://leetcode.com/problemset/database/
+https://mode.com/sql-tutorial/sql-operators/
+https://quip.com/2gwZArKuWk7W
+
+
+[0.4] Database design
+---------------------
+
+> Instead, they keep a Thing Table and a Data Table. 
+> Everything in Reddit is a Thing: users, links, comments, subreddits, awards, etc. 
+> Things keep common attribute like up/down votes, a type, and creation date. 
+> The Data table has three columns: thing id, key, value. 
+> There’s a row for every attribute. There’s a row for title, url, author, spam votes, etc. 
+> When they add new features they didn’t have to worry about the database anymore. 
+> They didn’t have to add new tables for new things or worry about upgrades. 
+> Easier for development, deployment, maintenance.  The price is you can’t use cool relational features. 
+> There are no joins in the database and you must manually enforce consistency. 
+> No joins means it’s really easy to distribute data to different machines. 
+> You don’t have to worry about foreign keys are doing joins or how to split the data up.
+> Worked out really well. Worries of using a relational database are a thing of the past.
+
+https://app.getpocket.com/read/1024809053
+https://cs145-fa18.github.io
+https://getpocket.com/read/2467796957
+https://app.getpocket.com/read/2525789787
+https://app.getpocket.com/read/2239167818
+https://app.getpocket.com/read/185005108
