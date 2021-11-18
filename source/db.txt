@@ -27,6 +27,10 @@
 
 + [comics](jokestir.github.io/assets/vines/sql.pdf)
 
++ [sqlite](jokestir.github.io/assets/vines/sqlite.pdf)
+
++ [sqlite](jokestir.github.io/assets/vines/sqlite2.pdf)
+
 
 [0.4] Database design
 ---------------------
