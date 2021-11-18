@@ -1,0 +1,29 @@
+Use https://playcode.io, https://codeframe.co, codepen.io
+
+	- is there html tag? can it be done using css? only then use js
+
+# Books
+
+- 100 days of JS
+- 7 GUI
+- 100 days of HTML
+- 100 days of CSS
+- http://js4ds.org/#s:regexp
+- Rediscovering javascript by Venkat Subramanian
+- Build an HTML5 Game A Developer's Guide with CSS and JavaScript by Karl Bunyan
+- JS for kids nick morgan
+- Data Visualization with JavaScript by Stephen A. Thomas
+- JS for kids, Javascript crash course by nick morgan
+
+# react
+
+- React for real
+- road to react
+- https://scrimba.com/learn/learnreact
+- official docs 
+- reactforbeginners
+
+tutorials
+--------
+* like swift in sixty seconds (https://www.youtube.com/channel/UCVTYFQxzHqUCKyub9RIKZCA/videos)
+* https://jgthms.com/javascript-in-14-minutes/
