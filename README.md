@@ -2,7 +2,7 @@
 2. web
       * [html](./source/html.txt)
       * [css](./source/css.txt)
-      * js
+      * [js])(./source/js.txt)
 3. misc.
       * [make](./source/make.txt)
       * [ux](./source/ui.txt)
