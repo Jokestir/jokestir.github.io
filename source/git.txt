@@ -32,4 +32,4 @@ $ git clone https://github.com/username/myproject.git
 
 # tutorials
 
-* [comic](./assets/vines/git.pdf)
+* [comic](jokestir.github.io/assets/vines/git.pdf)
