@@ -15,6 +15,7 @@ peterlevels style, phesist style, japanese style, indeed/google style, dashboard
 - excallidraw virgil font
 - https://akshatmittal.com/text-toolbox/, akashmittal, levelsio
 - https://lyrics.rip, see https://thesephist.com, blocks.css, paper.css
+- https://funtranslations.com/yoda
 ------------------------------------------------------------------------------------
 - [Dashboard](https://www.levels.fyi/salary/Amazon/)
 - www.rafaelnadalfas.com
