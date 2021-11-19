@@ -6,5 +6,5 @@
 ## books
 
 - parse: https://jokestir.github.io/assets/web/htmltutorials.txt
-
+- [zine](jokestir.github.io/tree/main/assets/vines/http.pdf)
 
