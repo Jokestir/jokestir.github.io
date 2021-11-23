@@ -27,6 +27,7 @@
 * web: cherry.py / bottle.py, brython
 * mobile: kivy
 * desktop: pysimplegui, tkinter
+* nocode: https://www.makerpad.co/tool-directory
 
 * textblob, fastext, keras for ml
 * for dist. use shiv/zip files. pyinstaller/py2exe/docker as backup
