@@ -1,0 +1,13 @@
+current setup
+-----------
+* vscode
+* mac, spotlight
+* safari + keys
+* python
+
+
+tablet coding
+---------
+* repl.it
+* vscode github dev (https://github.dev/github/dev)
+* jetbrains projector
