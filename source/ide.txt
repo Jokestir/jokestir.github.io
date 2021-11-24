@@ -5,9 +5,12 @@ current setup
 * safari + keys
 * python
 
-
 tablet coding
 ---------
 * repl.it
 * vscode github dev (https://github.dev/github/dev)
 * jetbrains projector
+
+
++ have separate table/chair for without computer for thinking
++ laptop/ipad or tablet with coding, projector, recliner, wireless keyboard, steel shelf
