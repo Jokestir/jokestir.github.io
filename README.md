@@ -12,3 +12,4 @@
       * [git](./source/git.txt)
       * [db](./source/db.txt)
       * [linuxy](./source/linuxy.txt)
+      * [setup](https://jokestir.github.io/source/ide.txt)
