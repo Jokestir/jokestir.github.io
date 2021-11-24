@@ -1,6 +1,6 @@
 # comics
 -----------
 
-* [bash](https://github.com/Jokestir/jokestir.github.io/blob/main/assets/vines/bash.pdf)
-* [commandline](https://github.com/Jokestir/jokestir.github.io/blob/main/assets/vines/commandline.pdf)
-* [networking](https://github.com/Jokestir/jokestir.github.io/blob/main/assets/vines/networking.pdf)
+* [bash](https://jokestir.github.io/assets/vines/bash.pdf)
+* [commandline](https://jokestir.github.io/assets/vines/commandline.pdf)
+* [networking](https://jokestir.github.io/assets/vines/networking.pdf)
