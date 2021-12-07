@@ -12,3 +12,7 @@
 - The Coding Workbook Build a Website with HTML & CSS
 - Build Your Own Website A Comic Guide to HTML, CSS, and WordPress by Nate Cooper
 - [zine](jokestir.github.io/assets/vines/css.pdf)
+
+## colors
+
+- https://brandpalettes.com/home-depot-colors/
