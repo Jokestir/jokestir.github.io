@@ -8,4 +8,29 @@ Security
 	- private certificates
 	- handshake puzzles
 	- api gateways
-	- sha512(projectname+coname+secret)
+	- sha512(projectname+coname+secret+time)
+
+spam
+-------------
+1. easy: honeypot hidden field
+    
+    [https://docs.netlify.com/forms/spam-filters/#honeypot-field](https://docs.netlify.com/forms/spam-filters/#honeypot-field)
+    
+    [https://mobile.twitter.com/levelsio/status/1410530089582751745](https://mobile.twitter.com/levelsio/status/1410530089582751745)
+    
+
+1. generate nonce as timestamp
+    
+    [https://stackoverflow.com/questions/5590170/what-is-the-standard-method-for-generating-a-nonce-in-python](https://stackoverflow.com/questions/5590170/what-is-the-standard-method-for-generating-a-nonce-in-python)
+    
+    [https://stackoverflow.com/questions/4751172/one-way-authentication-what-does-timestamp-and-nonce-mean](https://stackoverflow.com/questions/4751172/one-way-authentication-what-does-timestamp-and-nonce-mean)
+    
+    [https://crypto.stackexchange.com/questions/41170/what-advantage-is-there-for-using-a-nonce-and-a-timestamp](https://crypto.stackexchange.com/questions/41170/what-advantage-is-there-for-using-a-nonce-and-a-timestamp)
+    
+misc.
+-------------
+ddos protection from cloudfare
+use cloudfare too hide whois domain
+hide traceroute
+input protection by api tokens, ddos and re-captcha
+seo and webvitals
