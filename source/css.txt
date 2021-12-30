@@ -1,3 +1,5 @@
+do not use css. 
+
 ## tools
 
 - https://grid.layoutit.com
@@ -16,3 +18,9 @@
 ## colors
 
 - https://brandpalettes.com/home-depot-colors/
+
+## some inspiration
+
+http://kaomoji.ru/en/#donate # fun
+thesephist                   # fun
+
