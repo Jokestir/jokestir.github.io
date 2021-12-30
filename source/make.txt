@@ -6,6 +6,7 @@
 
 ## stack
 -  html, css, jquery, bottle/cherry.py (tableau), brython, sheet2site (sqlite)
+-  flow: build ux in webflow. then add backend.
 
 ## ideas
 
