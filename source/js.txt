@@ -14,6 +14,7 @@ Use https://playcode.io, https://codeframe.co, codepen.io
 - JS for kids nick morgan
 - Data Visualization with JavaScript by Stephen A. Thomas
 - JS for kids, Javascript crash course by nick morgan
+- javascript.info
 
 # react
 
