@@ -1,8 +1,9 @@
 
 ## makers
 
-- photopea creator - built a browser based clone of photoshop. Something that took Adobe thousands of engineers 
-- remoteok earns 1.5M per year
+- ivan kuckir. took Adobe thousands of engineers 
+- levelsio. remoteok earns 1.5M per year
+- linus.lee
 
 ## stack
 -  html, css, jquery, bottle/cherry.py (tableau), brython, sheet2site (sqlite)
